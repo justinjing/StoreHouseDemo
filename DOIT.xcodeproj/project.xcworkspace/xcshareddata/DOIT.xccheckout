@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A405888C-6844-4930-A865-C87978367D0B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DOIT</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>631CC3BA894F34C261E6F97005727FE1A6E2C21D</key>
+		<string>https://git.oschina.net/musiclee/DOIT.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DOIT.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>631CC3BA894F34C261E6F97005727FE1A6E2C21D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://git.oschina.net/musiclee/DOIT.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>631CC3BA894F34C261E6F97005727FE1A6E2C21D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>631CC3BA894F34C261E6F97005727FE1A6E2C21D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DOIT</string>
+		</dict>
+	</array>
+</dict>
+</plist>
