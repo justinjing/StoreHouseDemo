@@ -13,10 +13,11 @@
 + (UIImage *)imageWithFileName:(NSString *)fileName {
     NSString *imageFolderPath = [NSString stringWithFormat:@"%@/", [[NSBundle mainBundle] resourcePath]];
     NSString *imagePath = [imageFolderPath stringByAppendingString:fileName];
-    if (![[NSFileManager defaultManager] fileExistsAtPath:imagePath]) {
-        return nil;
-    }
     return [UIImage imageWithContentsOfFile:imagePath];
+//    if (![[NSFileManager defaultManager] fileExistsAtPath:imagePath]) {
+//        return nil;
+//    }
+//    return [UIImage imageWithContentsOfFile:imagePath];
 }
 
 - (UIImage*)scaleToSize:(CGSize)size {

@@ -12,20 +12,24 @@
 	<dict>
 		<key>631CC3BA894F34C261E6F97005727FE1A6E2C21D</key>
 		<string>https://git.oschina.net/musiclee/DOIT.git</string>
+		<key>AD161C5B4DF69878BAFFD24DC63088B4B14716EE</key>
+		<string>https://github.com/justinjing/StoreHouseDemo.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>DOIT.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>631CC3BA894F34C261E6F97005727FE1A6E2C21D</key>
+		<string>../../../DOIT</string>
+		<key>AD161C5B4DF69878BAFFD24DC63088B4B14716EE</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://git.oschina.net/musiclee/DOIT.git</string>
+	<string>https://github.com/justinjing/StoreHouseDemo.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>631CC3BA894F34C261E6F97005727FE1A6E2C21D</string>
+	<string>AD161C5B4DF69878BAFFD24DC63088B4B14716EE</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>631CC3BA894F34C261E6F97005727FE1A6E2C21D</string>
 			<key>IDESourceControlWCCName</key>
 			<string>DOIT</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AD161C5B4DF69878BAFFD24DC63088B4B14716EE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>StoreHouseDemo</string>
 		</dict>
 	</array>
 </dict>

@@ -71,33 +71,6 @@
     self.listTableView.tableHeaderView=scrollView;
  
 }
--(FMHomeItemModel *)modelCreat{
-    FMHomeItemModel* orderItem = [[FMHomeItemModel alloc]init];
-    orderItem.itemId=@"43592321354";
-    orderItem.userId=@"2379957480";
-    orderItem.nick=@"kingpower免税泰国旗舰店";
-    orderItem.auctionTag=@"203 1163 1478 2049 3522 3974 4166 4939 6658 13186 28802 56706";
-    orderItem.auctionType=@"b";
-    orderItem.biz30day=@"0";
-    orderItem.category=@"50019097";
-    orderItem.commentCount=@"";
-    orderItem.creditRate=@"";
-    orderItem.dsrScore=@"";
-    orderItem.ends=@"20150127150824";
-    orderItem.fastPostFee=@"0.00";
-    orderItem.gradeAvg=@"0.00";
-    orderItem.isprepay=@"1";
-    orderItem.pictUrl=@"i3/TB1I2c7GpXXXXbqapXXXXXXXXXX_!!0-item_pic.jpg";
-    orderItem.provcity=@"Korea";
-    orderItem.quantity=@"10";
-    orderItem.ratesum=@"0";
-    orderItem.reservePrice=@"10000000.00";
-    orderItem.sellerGoodrat=@"0";
-    orderItem.title=@"林出寒";
-    orderItem.userType=@"1";
-    return orderItem;
-}
-
 
 - (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView
 {
